@@ -1,4 +1,4 @@
-# ShopHub - MERN Stack E-Commerce Platform
+# ShopKart - MERN Stack E-Commerce Platform
 
 A complete, production-grade e-commerce web application built with the MERN stack and integrated with Stripe Payment Gateway for secure online transactions.
 
